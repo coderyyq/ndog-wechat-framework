@@ -2,7 +2,7 @@
 
 **奶狗微信框架，一个现代化、插件化的微信开发框架**
 
-基于 Go + Wails3 + React + Ant Design + 千寻微信 DLL 构建
+基于 [Go](https://go.dev/) + [Wails3](https://v3alpha.wails.io/) + [React](https://zh-hans.react.dev/) + [Ant Design](https://ant-design.antgroup.com/index-cn) + [千寻微信 DLL](https://www.cnblogs.com/daen/p/-/qxpro) 构建
 
 [快速开始](#-快速开始) · [功能特性](#-功能特性) · [插件开发](#-插件开发) · [API 文档](#-api-文档)
 
@@ -13,6 +13,14 @@
 ## 📖 项目简介
 
 奶狗微信框架是一个功能强大的微信开发框架，提供了完整的微信 API 代理、插件系统和现代化的用户界面。
+
+特别说明：业余项目，写的急，肯定有BUG，有能力的自行二开或根据反馈随缘更新。
+
+### 📸 界面预览
+
+<div align="center">
+  <img src="./main.png" alt="主界面" width="800"/>
+</div>
 
 ### ✨ 核心特性
 
