@@ -1,0 +1,9 @@
+{
+  "id": "custom-reply",
+  "name": "万能自定义回复",
+  "version": "0.0.1",
+  "description": "自定义设定规则、好友、群聊等通用回复插件。",
+  "author": "萌新",
+  "icon": "icon.png",
+  "entry": "frontend/index.html"
+}

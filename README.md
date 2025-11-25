@@ -1,8 +1,5 @@
-# 🐶 奶狗微信框架 (NaiDog WeChat Framework)
-
 <div align="center">
-
-**一个现代化、插件化的微信开发框架**
+** 奶狗微信框架 一个现代化、插件化的微信开发框架**
 
 基于 Go + Wails3 + React + Ant Design + 千寻微信 DLL 构建
 
@@ -44,25 +41,6 @@
 - **Node.js**: 18+
 - **操作系统**: Windows
 - **微信客户端**: 已安装
-
-### 安装步骤
-
-```bash
-# 1. 克隆项目
-git clone https://github.com/naidog/wechat-framework.git
-cd wechat-framework
-
-# 2. 安装Go依赖
-go mod download
-
-# 3. 安装前端依赖
-cd frontend
-npm install
-cd ..
-
-# 4. 运行项目
-wails3 dev
-```
 
 ### 首次运行
 
@@ -130,7 +108,7 @@ plugins/
 
 ### 插件模板
 
-- [万能自定义回复插件](https://xxxx)
+- [万能自定义回复插件模板](https://pan.baidu.com/s/1XFtkhNMffJweCD0h6iBfCQ?pwd=vd61)
 
 ### 快速创建插件
 

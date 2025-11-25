@@ -38,9 +38,6 @@ desktop.ini
 .env
 .env.local
 
-# 插件目录（如果不想上传插件）
-plugins/*
-!plugins/.gitkeep
 
 # 其他
 *.bak
